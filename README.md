@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🔐 Cybersecurity enthusiast
 - 🐍 Proficient in Python
 - 💡 Always eager to learn and innovate
-- 🌱 Currently expanding my knowledge in [insert current learning focus]
-- 📫 Reach me at: [your email address]
+- 🌱 Currently expanding my knowledge in Cyber Security
+- 📫 Reach me at: toyloue47@gmail.com
 
 ## 🛠️ Skills & Tools
 
