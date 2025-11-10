@@ -16,22 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Tools & Technologies:** Git, GitHub, Linux, Cryptography, Multithreading
 - **Areas of Interest:** Cybersecurity, Automation, Networking
 
-## 📂 Projects
-
-Here are some of my notable projects:
-
-### [Blockchain-Backed Messaging](https://github.com/Mridul01154/Cyber/tree/main/Blockchain-Backed%20Messaging)
-
-This project is a desktop messenger with the following features:
-
-✅ Blockchain Storage: Every message sent is stored as a block with a timestamp, sender info, message content, previous hash, and cryptographic hash.
-
-✅ TLS Encryption: All communication is protected using SSL/TLS certificates, ensuring message confidentiality and integrity.
-
-✅ Multithreaded Server: Supports concurrent client connections via Python threading.
-
-✅ GUI Client: Built with Tkinter, the client offers a modern theme-switching interface, chain visualization, and responsive input.
-
 ## 📈 GitHub Stats
 
 ![Mridul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mridul01154&show_icons=true&theme=radical)
